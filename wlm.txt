@@ -1,0 +1,370 @@
+不过	b
+出来	c
+但是	d
+事情	f
+一个	g
+不是	h
+这样	i
+就是	j
+可以	k
+怎么	l
+吗？	m
+那个	n
+起来	q
+这个	r
+什么	s
+他们	t
+为什么	w
+现在	x
+已经	y
+并且 [ ~8 ]	b
+不会 [ ~9 ]	b
+出现 [ ~8 ]	c
+成为 [ ~9 ]	c
+到了 [ ~8 ]	d
+都是 [ ~9 ]	d
+发现 [ ~8 ]	f
+真的 [ ~9 ]	f
+一样 [ ~8 ]	g
+一下 [ ~9 ]	g
+还是 [ ~4 ]	h
+还有 [ ~3 ]	h
+这么 [ ~; ]	i
+自己 [ ~b ]	i
+只是 [ ~4 ]	i
+之后 [ ~3 ]	i
+今天 [ ~4 ]	j
+几个 [ ~3 ]	j
+开始 [ ~; ]	k
+的， [ ~, ]	k
+的。 [ ~. ]	k
+的时候 [ ~/ ]	k
+看着 [ ~4 ]	k
+可是 [ ~3 ]	k
+两个 [ ~4 ]	l
+了， [ ~, ]	l
+了。 [ ~. ]	l
+有些 [ ~4 ]	m
+有的 [ ~3 ]	m
+没有 [ ~y ]	m
+那些 [ ~4 ]	n
+你们 [ ~; ]	n
+那么 [ ~m ]	n
+确实 [ ~8 ]	q
+情况 [ ~9 ]	q
+如果 [ ~, ]	r
+这些 [ ~9 ]	r
+然而 [ ~8 ]	r
+如此 [ ~c ]	r
+而且 [ ~q ]	r
+时候 [ ~; ]	s
+虽然 [ ~8 ]	s
+所以 [ ~9 ]	s
+突然 [ ~8 ]	t
+特别 [ ~9 ]	t
+知道 [ ~d ]	t
+她们 [ ~e ]	t
+完全 [ ~8 ]	w
+问题 [ ~9 ]	w
+我们 [ ~e ]	w
+心中 [ ~8 ]	x
+想到 [ ~9 ]	x
+也是 [ ~4 ]	y
+一样 [ ~3 ]	y
+因为 [ ~; ]	y
+并且	b8
+不会	b9
+出现	c8
+成为	c9
+到了	d8
+都是	d9
+发现	f8
+真的	f9
+一样	g8
+一下	g9
+还是	h4
+还有	h3
+这么	i;
+自己	ib
+只是	i4
+之后	i3
+今天	j4
+几个	j3
+开始	k;
+的，	k,
+的。	k.
+的时候	k/
+看着	k4
+可是	k3
+两个	l4
+了，	l,
+了。	l.
+有些	m4
+有的	m3
+没有	my
+那些	n4
+你们	n;
+那么	nm
+确实	q8
+情况	q9
+如果	r,
+这些	r9
+然而	r8
+如此	rc
+而且	rq
+时候	s;
+虽然	s8
+所以	s9
+突然	t8
+特别	t9
+知道	td
+她们	te
+完全	w8
+问题	w9
+我们	we
+心中	x8
+想到	x9
+也是	y4
+一样	y3
+因为	y;
+本	b,
+必	b.
+办	b/
+变	b;
+己	bc
+百	bd
+展	be
+并	bn
+备	bo
+步	bp
+表	bu
+吧	bv
+成	c,
+常	c.
+长	c/
+长	c/
+产	c;
+传	cg
+传	cg
+重	cn
+重	cn
+曾	co
+曾	co
+场	cz
+到	d,
+单	d.
+单	d.
+单	d.
+多	d/
+都	d;
+电	dc
+德	de
+大	dh
+第	di
+但	do
+东	dp
+断	dq
+倒	ds
+复	f.
+父	f/
+方	f;
+散	fe
+整	ff
+事	fi
+走	fj
+下	fk
+真	fm
+是	fn
+直	fo
+发	fp
+者	fr
+教	ft
+服	fu
+期	fv
+期	fv
+更	g,
+光	g.
+古	g/
+过	g;
+告	ga
+工	gd
+格	ge
+一	gk
+故	gp
+形	gq
+果	gr
+刚	gu
+云	gv
+功	gz
+或	h,
+黑	h.
+华	h/
+海	h;
+很	hb
+合	hc
+合	hc
+何	hf
+会	hg
+会	hg
+装	hh
+哈	hp
+音	hr
+乎	hu
+不	hv
+将	hw
+将	hw
+站	hy
+化	hz
+再	i,
+怎	i.
+住	i/
+种	ic
+种	ic
+在	id
+着	ie
+正	if
+足	ip
+则	iu
+主	iw
+终	iz
+极	j,
+计	j.
+九	j/
+交	j;
+就	ja
+做	jf
+具	jm
+间	jr
+件	jt
+结	ju
+即	jv
+哭	ka
+据	kb
+可	kd
+的	kf
+推	kj
+义	km
+况	ko
+抓	kq
+得	kr
+找	ks
+看	kt
+待	ku
+报	kv
+空	kx
+客	kz
+六	l/
+离	l;
+来	la
+楼	lc
+连	ln
+老	lp
+诉	lq
+军	ls
+社	lu
+聊	lw
+命	m/
+母	m;
+有	mf
+精	mg
+公	ml
+慢	mn
+们	mu
+前	mv
+分	mz
+家	na
+想	nc
+水	nd
+呢	ne
+于	ng
+应	nh
+拿	nk
+须	nq
+最	nr
+举	nu
+能	nv
+你	nw
+经	nx
+平	pa
+强	pb
+强	pb
+少	pv
+轻	q,
+求	q.
+气	q/
+亲	q;
+起	qi
+其	qm
+其	qm
+千	qp
+却	qv
+切	qz
+嗯	r.
+入	r/
+然	r;
+早	rf
+这	rh
+容	ro
+尔	rp
+任	rt
+如	ru
+让	ry
+十	s,
+神	s.
+生	s/
+属	sb
+属	sb
+术	sc
+术	sc
+四	se
+思	si
+时	sp
+算	sz
+太	t,
+它	t.
+谈	t/
+通	t;
+团	tf
+天	tg
+知	ti
+同	to
+他	tp
+听	tq
+香	tr
+笑	tt
+特	tu
+图	tz
+王	w,
+忘	w.
+物	w/
+望	w;
+玩	wa
+问	wi
+及	wk
+我	wo
+乐	wp
+乐	wp
+无	wu
+无	wu
+外	wy
+解	wz
+解	wz
+需	x,
+心	x.
+信	x/
+兴	x;
+雪	xb
+向	xm
+现	xo
+写	xs
+学	xv
+由	y,
+因	y.
+议	y/
+以	yd
+也	ye
+意	yi
+远	yn
+友	yp
+影	yq
+又	yz
